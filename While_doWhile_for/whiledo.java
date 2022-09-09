@@ -1,8 +1,8 @@
-package familia58;
+package exercicios.While_doWhile_for;
 
 import java.util.Scanner;
 
-public class whiledo {
+public class WhileDo {
 
 	public static void main(String[] args) {
 		

@@ -1,8 +1,8 @@
-package familia58;
+package exercicios.While_doWhile_for;
 import java.util.Scanner;
 
 /*Ler 10 números e imprimir quantos são pares e quantos são ímpares. (FOR) */
-public class repetiçãofor {
+public class RepetiçãoFor {
 
 	public static void main(String[] args) {
 
