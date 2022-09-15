@@ -1,4 +1,4 @@
-package poo;
+package Poo.src.poo;
 
 public class AviaoTeste {
 
